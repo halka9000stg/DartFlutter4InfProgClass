@@ -1,4 +1,4 @@
-# Dart/ Flutter の環境構築
+# Dart / Flutter の環境構築
 
 ## 手作業で構築する
 
