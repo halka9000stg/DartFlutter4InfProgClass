@@ -1,0 +1,2 @@
+# DartFlutter4InfProgClass
+高等学校課程情報I/IIや大学教養科目基礎系などにおいて(オブジェクト指向を主眼とした)プログラミングを扱う単元や科目のためのDart及びFlutterを用いた教材
